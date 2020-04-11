@@ -1,5 +1,5 @@
 # hello-world
-my first repository
+a little about me
 --------------------
 Hi there, i'm Ana! 
 
