@@ -1,5 +1,5 @@
 # hello-world
-a little about me
+
 --------------------
 Hi there, i'm Ana! 
 
